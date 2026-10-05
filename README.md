@@ -1,105 +1,106 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Morel Effobi
+# Morel Effobi
 
-### Développeur Full-Stack & Mobile · Laravel · Flutter · React
+### Software Developer · Web & Mobile Applications
 
-Je conçois des applications web et mobile modernes, utiles et orientées produit.
+I design and build practical digital products with a focus on clarity, reliability and real-world use.
 
-<img src="https://komarev.com/ghpvc/?username=shikileliondor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
-</div>
-
----
-
-## 🚀 À propos de moi
-
-- 💻 Développeur **Full-Stack & Mobile**
-- 📱 Je développe des applications mobiles avec **Flutter**
-- ⚙️ Je construis des backends et APIs avec **Laravel / PHP**
-- 🎨 Je travaille aussi sur des interfaces modernes avec **React, Tailwind CSS et Bootstrap**
-- 🗄️ Bases de données : **MySQL / SQL**
-- 🧠 Je m'intéresse à l'architecture logicielle, au DevOps et aux produits numériques utiles
-- 📍 Abidjan, Côte d’Ivoire 🇨🇮
-
----
-
-## 🧰 Stack principale
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,react,js,html,css,tailwind,bootstrap,mysql,git,github,vscode&perline=7" />
+[GitHub](https://github.com/shikileliondor)
 
 </div>
 
 ---
 
-## 🛠️ Ce que je construis
+## Profile
 
-~~~text
-Web Apps        → Laravel · React · Tailwind CSS
-Mobile Apps     → Flutter · Dart
-Backend / API   → Laravel · REST API · MySQL
-UI Integration  → HTML · CSS · Bootstrap · Tailwind
-Workflow Dev    → Git · GitHub · VS Code
-~~~
+Software developer based in Abidjan, Côte d’Ivoire.
+
+I work on web and mobile applications, from initial idea to implementation and deployment. My approach is centered on understanding the problem first, structuring the solution properly, and delivering something useful, maintainable and presentable.
+
+I am particularly interested in product development, software architecture, business applications and digital tools that solve concrete problems.
 
 ---
 
-## 📌 Projets & sujets sur lesquels je travaille
+## What I focus on
 
-### 📱 Applications mobiles
-Conception d'applications Flutter connectées à des APIs Laravel, avec une attention portée à l'expérience utilisateur et à la maintenabilité.
-
-### 🌐 Applications web
-Développement d'interfaces et de plateformes métier modernes avec Laravel, React et Tailwind CSS.
-
-### ⚙️ APIs & architecture
-Structuration d'APIs REST, authentification, logique métier, bases de données et déploiement.
+- Building complete web and mobile applications
+- Designing clean and maintainable application structures
+- Developing business-oriented digital solutions
+- Connecting interfaces, APIs, databases and back-office systems
+- Improving usability, performance and deployment quality
+- Turning project ideas into usable products
 
 ---
 
-## 📊 GitHub
+## Selected work
+
+### Foursquare Côte d’Ivoire
+Mobile and web solutions designed around communication, events, church directory management and administration.
+
+### Convention Management Platform
+A platform designed to manage participant registration, validation, payment workflows, QR codes and administration.
+
+### Business and Institutional Websites
+Design and development of websites focused on visibility, lead generation, content management and business objectives.
+
+### Management Applications
+Projects covering areas such as school management, canteen management, attendance and internal workflows.
+
+---
+
+## Engineering approach
+
+I prefer solutions that are simple to understand, easy to maintain and adapted to the actual needs of the project.
+
+My work generally involves:
+
+- requirements analysis
+- application architecture
+- interface design and integration
+- backend and API development
+- database design
+- testing and debugging
+- deployment and iteration
+
+---
+
+## Technologies
+
+Laravel · PHP · Flutter · Dart · React · JavaScript · MySQL · Tailwind CSS · Git
+
+---
+
+## GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shikileliondor&show_icons=true&hide_border=true&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shikileliondor&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikileliondor&layout=compact&hide_border=true&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikileliondor&layout=compact&hide_border=true&theme=github_dark&hide_title=true" />
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shikileliondor&theme=github-dark-blue&hide_border=true" />
+## Current direction
 
-</div>
+I am currently focused on improving the quality of my projects, strengthening my software engineering practices, and building applications that are closer to production standards.
+
+I am also continuing to deepen my knowledge of software architecture, deployment, backend systems and mobile development.
 
 ---
 
-## 🎯 En ce moment
+## Contact
 
-- 🔨 Je renforce mes projets **Laravel + Flutter**
-- 🧱 J'améliore la qualité de mes architectures et de mes APIs
-- 🚀 Je transforme progressivement mes projets en réalisations réellement présentables en production
-- 📚 Je continue à progresser en génie logiciel et en pratiques professionnelles
+Open to development opportunities, collaborations and software projects.
 
----
-
-## 🤝 Travaillons ensemble
-
-Je suis ouvert aux collaborations, projets web/mobile et opportunités de développement logiciel.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-shikileliondor-181717?style=for-the-badge&logo=github)](https://github.com/shikileliondor)
-
-</div>
+GitHub: [github.com/shikileliondor](https://github.com/shikileliondor)
 
 ---
 
 <div align="center">
 
-### « Construire simple. Livrer propre. Progresser constamment. »
+Build useful software. Keep it clear. Make it last.
 
 </div>
