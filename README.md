@@ -67,7 +67,11 @@ My work generally involves:
 
 ## Technologies
 
-Laravel · PHP · Flutter · Dart · React · JavaScript · MySQL · Tailwind CSS · Git
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,react,js,html,css,tailwind,bootstrap,mysql,git,github,vscode&perline=7" alt="Technologies and tools" />
+
+</div>
 
 ---
 
