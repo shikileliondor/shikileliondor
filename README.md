@@ -2,9 +2,9 @@
 
 # Morel Effobi
 
-### Software Developer · Web & Mobile Applications
+### Développeur logiciel · Applications web & mobile
 
-I design and build practical digital products with a focus on clarity, reliability and real-world use.
+Je conçois et développe des produits numériques utiles, avec une attention particulière portée à la clarté, à la fiabilité et aux usages concrets.
 
 [GitHub](https://github.com/shikileliondor)
 
@@ -12,56 +12,56 @@ I design and build practical digital products with a focus on clarity, reliabili
 
 ---
 
-## Profile
+## Profil
 
-Software developer based in Abidjan, Côte d’Ivoire.
+Développeur logiciel basé à Abidjan, Côte d’Ivoire.
 
-I work on web and mobile applications, from initial idea to implementation and deployment. My approach is centered on understanding the problem first, structuring the solution properly, and delivering something useful, maintainable and presentable.
+Je travaille sur des applications web et mobiles, depuis l’idée initiale jusqu’à l’implémentation et au déploiement. Mon approche consiste d’abord à comprendre le besoin, puis à structurer une solution cohérente, utile, maintenable et présentable.
 
-I am particularly interested in product development, software architecture, business applications and digital tools that solve concrete problems.
-
----
-
-## What I focus on
-
-- Building complete web and mobile applications
-- Designing clean and maintainable application structures
-- Developing business-oriented digital solutions
-- Connecting interfaces, APIs, databases and back-office systems
-- Improving usability, performance and deployment quality
-- Turning project ideas into usable products
+Je m’intéresse particulièrement au développement de produits, à l’architecture logicielle, aux applications métiers et aux outils numériques qui répondent à des problèmes concrets.
 
 ---
 
-## Selected work
+## Mes domaines d’intérêt
+
+- Concevoir des applications web et mobiles complètes
+- Structurer des solutions propres et maintenables
+- Développer des outils numériques orientés métier
+- Connecter interfaces, APIs, bases de données et espaces d’administration
+- Améliorer l’ergonomie, les performances et la qualité de déploiement
+- Transformer une idée de projet en produit réellement utilisable
+
+---
+
+## Projets sélectionnés
 
 ### Foursquare Côte d’Ivoire
-Mobile and web solutions designed around communication, events, church directory management and administration.
+Solutions web et mobiles pensées pour la communication, la gestion des événements, l’annuaire des églises et l’administration.
 
-### Convention Management Platform
-A platform designed to manage participant registration, validation, payment workflows, QR codes and administration.
+### Plateforme de gestion de convention
+Plateforme conçue pour gérer les inscriptions, validations, paiements, QR codes et opérations administratives.
 
-### Business and Institutional Websites
-Design and development of websites focused on visibility, lead generation, content management and business objectives.
+### Sites web professionnels et institutionnels
+Conception et développement de sites orientés visibilité, génération de prospects, gestion de contenu et objectifs commerciaux.
 
-### Management Applications
-Projects covering areas such as school management, canteen management, attendance and internal workflows.
+### Applications de gestion
+Projets liés à la gestion scolaire, aux cantines, au suivi de présence et à différents processus internes.
 
 ---
 
-## Engineering approach
+## Approche d’ingénierie
 
-I prefer solutions that are simple to understand, easy to maintain and adapted to the actual needs of the project.
+Je privilégie les solutions simples à comprendre, faciles à maintenir et adaptées aux besoins réels du projet.
 
-My work generally involves:
+Mon travail couvre généralement :
 
-- requirements analysis
-- application architecture
-- interface design and integration
-- backend and API development
-- database design
-- testing and debugging
-- deployment and iteration
+- l’analyse des besoins
+- l’architecture applicative
+- la conception et l’intégration des interfaces
+- le développement backend et API
+- la conception des bases de données
+- les tests et le débogage
+- le déploiement et l’amélioration continue
 
 ---
 
@@ -69,13 +69,13 @@ My work generally involves:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,react,js,html,css,tailwind,bootstrap,mysql,git,github,vscode&perline=7" alt="Technologies and tools" />
+<img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,react,js,html,css,tailwind,bootstrap,mysql,git,github,vscode&perline=7" alt="Technologies et outils" />
 
 </div>
 
 ---
 
-## GitHub activity
+## Activité GitHub
 
 <div align="center">
 
@@ -87,24 +87,24 @@ My work generally involves:
 
 ---
 
-## Current direction
+## Direction actuelle
 
-I am currently focused on improving the quality of my projects, strengthening my software engineering practices, and building applications that are closer to production standards.
+Je me concentre actuellement sur l’amélioration de la qualité de mes projets, le renforcement de mes pratiques en génie logiciel et la création d’applications plus proches des standards de production.
 
-I am also continuing to deepen my knowledge of software architecture, deployment, backend systems and mobile development.
+Je continue également à approfondir mes connaissances en architecture logicielle, déploiement, systèmes backend et développement mobile.
 
 ---
 
 ## Contact
 
-Open to development opportunities, collaborations and software projects.
+Ouvert aux opportunités de développement, aux collaborations et aux projets logiciels.
 
-GitHub: [github.com/shikileliondor](https://github.com/shikileliondor)
+GitHub : [github.com/shikileliondor](https://github.com/shikileliondor)
 
 ---
 
 <div align="center">
 
-Build useful software. Keep it clear. Make it last.
+Construire utile. Rester clair. Concevoir pour durer.
 
 </div>
